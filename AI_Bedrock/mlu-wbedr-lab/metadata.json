@@ -1,0 +1,9 @@
+
+{
+  "blueprint_major_version": "mlu-bedrock-studio-lab:5",
+  "notebook_order": [
+      "wbedr-lab1-bedrock-walkthrough.ipynb",
+      "wbedr-lab2-prompt-engineering.ipynb",
+      "wbedr-lab3-langchain-chat.ipynb"
+  ]
+}
