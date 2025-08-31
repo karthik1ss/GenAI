@@ -1,3 +1,0 @@
-archive_system: archive_python
-python_version: Python-default
-handler_path: aws_lambda/handlers.py
